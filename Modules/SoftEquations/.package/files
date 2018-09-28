@@ -6,7 +6,6 @@ quotientrepslice.v
 Equation.v
 quotientequation.v
 InitialEquationRep.v
-SignatureOverDerivation.v
 TwoSignatureMorphism.v
 SignatureOverBinproducts.v
 BindingSig.v
